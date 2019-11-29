@@ -74,8 +74,13 @@ body {
     font-size: 130%;
   }
 
-  .card-img, .card {
+  .card {
     display: flex;
+  }
+
+  .card-img {
+    display: flex;
+    padding-right: .5em;
   }
 
 }
